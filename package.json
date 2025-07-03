@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "start": "node index.js",
-   json\n\"test\": \"echo Running tests && node index.test.js\"\n
+    "test": "echo Running tests && node index.test.js"
   },
   "dependencies": {},
   "devDependencies": {}
